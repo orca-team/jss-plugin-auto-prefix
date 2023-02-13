@@ -1,7 +1,7 @@
 {
   "name": "@orca-fe/jss-plugin-auto-prefix",
   "version": "0.0.1",
-  "description": "Simply integrates JSS with React",
+  "description": "Auto prefix plugin for jss",
   "types": "esm/index.d.ts",
   "module": "esm/index.js",
   "main": "lib/index.js",
